@@ -11,9 +11,11 @@ Please update:
  # How to install:
 
   Copy these files into a working directory and make sure `requests` is an installed python library:
+  
   `pip install requests` 
 
-  Please install `duo_client` python package as well:   
+  Please install `duo_client` python package as well:  
+  
   `pip install duo_client`
 
 # How to use:
