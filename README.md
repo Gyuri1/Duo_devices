@@ -23,7 +23,7 @@ You can GET the Duo registered devices using this script:
 `python duo_get_devices.py >devices.txt`
 
 
-You can DELETE the Duo registered devices using this script:
+You can DELETE the Duo registered device where `phone_id` is the device ID:
 
 `python duo_delete_device.py phone_id`
 
